@@ -1,0 +1,25 @@
+.wrap {
+    background-color: #f0f00a;
+    display: flex;
+    padding: 20px;
+    box-shadow: 2px 5px 5px #1798fa;
+    border: 1px solid #e1e3ff;
+    width: 100%;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.list {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    font-weight: bold;
+    color: black;
+}
+
+.active {
+    color: #3f63f4;
+}
